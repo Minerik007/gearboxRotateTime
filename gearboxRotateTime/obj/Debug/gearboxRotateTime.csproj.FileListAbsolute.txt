@@ -1,0 +1,7 @@
+F:\Visual Studio Projects\gearboxRotateTime\gearboxRotateTime\bin\Debug\gearboxRotateTime.exe.config
+F:\Visual Studio Projects\gearboxRotateTime\gearboxRotateTime\bin\Debug\gearboxRotateTime.exe
+F:\Visual Studio Projects\gearboxRotateTime\gearboxRotateTime\bin\Debug\gearboxRotateTime.pdb
+F:\Visual Studio Projects\gearboxRotateTime\gearboxRotateTime\obj\Debug\gearboxRotateTime.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\gearboxRotateTime\gearboxRotateTime\obj\Debug\gearboxRotateTime.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\gearboxRotateTime\gearboxRotateTime\obj\Debug\gearboxRotateTime.exe
+F:\Visual Studio Projects\gearboxRotateTime\gearboxRotateTime\obj\Debug\gearboxRotateTime.pdb
